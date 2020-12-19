@@ -1,5 +1,7 @@
 package main
 
+// used inspiration from @lizthegray
+
 import (
 	"bufio"
 	"flag"
